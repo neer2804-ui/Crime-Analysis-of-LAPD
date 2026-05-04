@@ -1,7 +1,7 @@
-LAPD Crime Intelligence Dashboard: Predictive and Exploratory Analysis of Urban Crime Patterns
+_**LAPD Crime Intelligence Dashboard: Predictive and Exploratory Analysis of Urban Crime Patterns
 
-Abstract
-
+Abstract**
+_
 This project develops an interactive dashboard to analyze crime patterns using publicly available data from the Los Angeles Police Department. The objective is to uncover temporal, spatial, and categorical crime trends and support data-driven decision-making. The system integrates data preprocessing, feature engineering, and visualization to transform raw crime records into actionable insights. The dashboard enables users to explore crime distribution across time, geography, and victim demographics, while highlighting key behavioral and environmental risk patterns.
 
 Business Problem
