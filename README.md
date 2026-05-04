@@ -130,7 +130,12 @@ This project highlights the importance of combining data engineering, analytics,
 By transforming raw crime data into an interactive intelligence system, the dashboard demonstrates the practical application of analytics in solving real-world urban challenges.
 
 ---
-<img width="1605" height="862" alt="image" src="https://github.com/user-attachments/assets/a3a4aa2f-94d9-4f39-9deb-2422e8e287b7" />
 
 ## 🔗 Live Dashboard
 👉 https://lapd-crime-6xafyh77.manus.space/
+
+Some snapshots from live dashboard
+<img width="1605" height="862" alt="image" src="https://github.com/user-attachments/assets/a3a4aa2f-94d9-4f39-9deb-2422e8e287b7" />
+
+
+<img width="1510" height="760" alt="image" src="https://github.com/user-attachments/assets/7312bbe7-12a3-4244-97a0-e253c3470527" />
